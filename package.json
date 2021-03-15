@@ -1,0 +1,14 @@
+{
+  "name": "tdd_painter_decorator_reattempt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha modules/specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.1"
+  },
+  "description": ""
+}
